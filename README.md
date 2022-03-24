@@ -1,8 +1,7 @@
 # Password Generator
 
 ## Link to Page
-https://ykirollos.github.io/Homework-03/
-
+https://ykirollos.github.io/Homework-03_Password-Generator/
 ## Purpose
 In this Assignment, I created a Password Generator that uses Lowercase, Uppercase, Special Characters and Numbers into a string.
 The Password elength would be fisrt specified, then the user woud be prompted to elect every typre of characters they'd like to include through a series of questions.
